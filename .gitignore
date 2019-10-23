@@ -1,0 +1,10 @@
+objs/
+cmake-build-debug/
+CMakeLists.txt
+libfts.a
+.idea
+tests_libasm/
+objstest/
+a.out
+ft_cat
+test 
